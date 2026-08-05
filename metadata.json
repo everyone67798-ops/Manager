@@ -1,0 +1,6 @@
+{
+  "name": "UNITV Manager",
+  "description": "Gerenciador de downloads e arquivos para UNITV",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
